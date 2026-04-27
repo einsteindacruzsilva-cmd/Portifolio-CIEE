@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio do Integrante</title>
+  <link rel="stylesheet" href="./src/styles/portfolio.css">
+</head>
+<body>
+  <div class="portfolio-shell">
+    <header class="topbar">
+      <a class="back-link" href="index.html">← Voltar para a equipe</a>
+      <span class="topbar-badge">Portfolio individual</span>
+    </header>
+
+    <nav class="portfolio-nav" aria-label="Navegacao do portfolio">
+      <a class="nav-link" href="#inicio">Inicio</a>
+      <a class="nav-link" href="#projetos">Projetos</a>
+      <a class="nav-link" href="#sobre">Sobre</a>
+    </nav>
+
+    <main>
+      <section class="hero" id="inicio">
+        <div class="hero-visual reveal">
+          <div class="member-stage" id="memberStage">
+            <div class="stage-glow"></div>
+            <div class="portrait-shell" id="portraitShell">
+              <img id="memberPortrait" alt="Imagem 3D do integrante" loading="eager">
+            </div>
+            <ul class="floating-skills" id="memberSkills"></ul>
+          </div>
+
+          <div class="member-identity">
+            <p class="eyebrow" id="memberArea">Equipe CIEE</p>
+            <h1 id="memberName">Nome do Integrante</h1>
+            <p class="hero-role" id="memberRole">Funcao principal</p>
+          </div>
+        </div>
+
+        <div class="hero-copy reveal">
+          <div class="media-grid">
+            <figure class="media-large media-frame" id="mediaLarge">
+              <img id="mediaLargeImage" alt="Imagem principal do portfolio" loading="lazy">
+            </figure>
+            <div class="media-side">
+              <figure class="media-small media-frame" id="mediaSmallOne">
+                <img id="mediaSmallImageOne" alt="Imagem complementar do portfolio" loading="lazy">
+              </figure>
+              <figure class="media-small media-frame" id="mediaSmallTwo">
+                <img id="mediaSmallImageTwo" alt="Imagem complementar do portfolio" loading="lazy">
+              </figure>
+            </div>
+          </div>
+
+          <p class="hero-card-label">Portfolio individual</p>
+          <p class="hero-text" id="memberBio">
+            Perfil profissional com foco em resultados, colaboracao e evolucao constante.
+          </p>
+
+          <div class="hero-actions">
+            <a class="hero-button hero-button-primary" href="#projetos">Ver projetos</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="showcase reveal" id="projetos">
+        <div class="section-heading">
+          <p class="eyebrow">Projetos em destaque</p>
+          <h2>Entregas selecionadas</h2>
+        </div>
+
+        <div class="project-grid" id="projectGrid"></div>
+      </section>
+
+      <section class="about reveal" id="sobre">
+        <div class="section-heading">
+          <p class="eyebrow">Sobre</p>
+          <h2>Forma de atuar</h2>
+        </div>
+
+        <div class="about-grid">
+          <article class="info-card">
+            <p class="info-card-label">Resumo profissional</p>
+            <p id="memberSummary">
+              Profissional com perfil analitico, boa comunicacao e foco em construir processos mais claros e eficientes.
+            </p>
+          </article>
+
+          <article class="info-card">
+            <p class="info-card-label">Diferenciais</p>
+            <div class="pill-list" id="memberHighlights"></div>
+          </article>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <script type="module" src="./src/scripts/portfolio.js"></script>
+</body>
+</html>
