@@ -12,11 +12,11 @@ const portfolioData = {
     projects: [
       {
         title: "Campanha de comunicacao interna",
-        description: "Estruturacao de pecas visuais e mensagens com foco em clareza e eficiencia da informacao. O processo incluiu apoio de ferramentas de inteligencia artificial para organizar ideias, sugerir melhorias de redacao e otimizar a comunicacao, tornando os comunicados mais objetivos e de facil compreensao para o publico interno."
+        description: "Estruturação de peças visuais e mensagens com foco em clareza e eficiencia da informação. O processo incluiu apoio de ferramentas de inteligencia artificial para organizar ideias, sugerir melhorias de redação e otimizar a comunicação, tornando os comunicados mais objetivos e de facil compreensão para o publico interno."
       },
       {
         title: "Conteudo digital com IA",
-        description: "Desenvolvimento de conteudos digitais com o apoio de ferramentas de inteligencia artificial aplicadas ao marketing. A IA foi utilizada como suporte para geracao e refinamento de ideias, melhoria de textos, adaptacao de linguagem e aceleracao do processo criativo, garantindo mais consistencia, agilidade e qualidade na producao de materiais."
+        description: "Desenvolvimento de conteudos digitais com o apoio de ferramentas de inteligencia artificial aplicadas ao marketing. A IA foi utilizada como suporte para geração e refinamento de ideias, melhoria de textos, adaptação de linguagem e aceleração do processo criativo, garantindo mais consistencia, agilidade e qualidade na produção de materiais."
       }
     ]
   },
@@ -33,11 +33,11 @@ const portfolioData = {
     projects: [
       {
         title: "Automação de tarefas operacionais com apoio de IA",
-        description: "Desenvolvimento de fluxos de automacao voltados a reducao de tarefas repetitivas e ao aumento da produtividade. O processo contou com o uso de ferramentas de inteligencia artificial para auxiliar na identificacao de padroes, sugestao de melhorias nos fluxos e otimizacao da execucao, contribuindo para maior eficiencia e padronizacao das rotinas."
+        description: "Desenvolvimento de fluxos de automação voltados a redução de tarefas repetitivas e ao aumento da produtividade. O processo contou com o uso de ferramentas de inteligencia artificial para auxiliar na identificação de padrões, sugestão de melhorias nos fluxos e otimização da execução, contribuindo para maior eficiencia e padronização das rotinas."
       },
       {
         title: "Página de apresentação interativa com suporte de IA",
-        description: "Criacao de uma interface moderna e responsiva, com foco em clareza, organizacao e experiencia do usuario. A inteligencia artificial foi utilizada ao longo do processo para apoiar na geracao de ideias de layout, melhoria de estrutura de conteudo, refinamento de textos e validacao de boas praticas de usabilidade."
+        description: "Criação de uma interface moderna e responsiva, com foco em clareza, organização e experiencia do usuario. A inteligencia artificial foi utilizada ao longo do processo para apoiar na geração de ideias de layout, melhoria de estrutura de conteudo, refinamento de textos e validacao de boas praticas de usabilidade."
       }
     ]
   },
@@ -54,11 +54,11 @@ const portfolioData = {
     projects: [
       {
         title: "Padronização e organização de documentos com apoio de IA",
-        description: "Apoio na estruturação e padronização de documentos e arquivos do setor de Recursos Humanos, com foco em facilitar consultas, atualizações e maior segurança da informação. No dia a dia, o uso de ferramentas de inteligencia artificial contribui para otimizar a organizacao de conteudos, na revisao de textos e agilizar a categorizacao de informacoes, tornando os processos mais eficientes e consistentes."
+        description: "Apoio na estruturação e padronização de documentos e arquivos do setor de Recursos Humanos, com foco em facilitar consultas, atualizações e maior segurança da informação. No dia a dia, o uso de ferramentas de inteligencia artificial contribui para otimizar a organização de conteudos, na revisão de textos e agilizar a categorização de informações, tornando os processos mais eficientes e consistentes."
       },
       {
         title: "Fluxo de apoio a admissão com suporte de IA",
-        description: "Participacao na estruturacao de atividades administrativas relacionadas ao processo de admissao e acompanhamento de colaboradores. O uso de inteligencia artificial no cotidiano auxilia na organizacao de etapas, padronizacao de documentos, apoio na comunicacao interna e melhoria da clareza das informacoes, contribuindo para um fluxo de admissao mais agil, organizado e alinhado às boas praticas de gestão de pessoas."
+        description: "Participação na estruturação de atividades administrativas relacionadas ao processo de admissão e acompanhamento de colaboradores. O uso de inteligencia artificial no cotidiano auxilia na organizacao de etapas, padronização de documentos, apoio na comunicação interna e melhoria da clareza das informações, contribuindo para um fluxo de admissão mais agil, organizado e alinhado às boas praticas de gestão de pessoas."
       }
     ]
   },
