@@ -66,20 +66,20 @@ const portfolioData = {
     name: "Gustavo Figueiredo",
     area: "Controle de estoque e organizacao operacional",
     role: "Aprendiz de Almoxarifado",
-    bio: "Atua no controle e organizacao de estoque e movimentacoes de materiais, com foco em precisao, ordem e acompanhamento das entradas e saidas.",
-    summary: "Profissional com atuação em almoxarifado, voltado ao controle de estoque, organização de materiais e apoio às rotinas operacionais. Contribui para a ordem, rastreabilidade e eficiência no fluxo de entradas e saídas, garantindo maior confiabilidade no acompanhamento dos recursos.",
-    portrait: "friba0.jpg",
-    gallery: ["friba0.jpg", "fribal1.jpg", "fribal2.jpg"],
-    skills: ["Gestão de Estoque", "Entrada e Saída", "Organização"],
-    highlights: ["Controle operacional", "Fluxo de materiais", "Padronização"],
+    bio: "Atuo no controle e organização de estoque e na movimentação de materiais, com foco em precisão, organização e acompanhamento das entradas e saídas.",
+    summary: "Profissional com atuação em almoxarifado, voltado ao controle de estoque, organização de materiais e suporte às rotinas operacionais. Possui perfil analítico e organizado, contribuindo para a eficiência no fluxo de recursos, melhoria da rastreabilidade e maior confiabilidade nas informações de estoque por meio do uso de tecnologia e inteligência artificial.",
+    portrait: "gustavo.jpeg",
+    gallery: ["almo0.jpeg", "almo1.jpeg", "almo2.jpeg"],
+    skills: ["Gestão de Estoque", "Rastreabilidade de processos", "Organização", "Padronização de registros", "Entrada e Saída"],
+    highlights: ["Controle operacional", "Fluxo de materiais", "Padronização", "Uso de tecnologia no apoio às rotinas", "Eficiência e redução de desperdícios"],
     projects: [
       {
-        title: "Organizacao do fluxo de materiais",
-        description: "Apoio no monitoramento de entradas e saidas para manter o estoque mais claro, acessivel e alinhado as necessidades operacionais."
+        title: "Organização do fluxo de materiais com apoio de IA",
+        description: "Apoio no monitoramento de entradas e saídas de materiais, com uso diário de ferramentas de inteligência artificial para auxiliar na organização de dados, identificação de padrões de consumo e atualização de registros. Essa aplicação contribui para um estoque mais claro, acessível e alinhado às necessidades operacionais, reduzindo falhas e retrabalho."
       },
       {
-        title: "Mapeamento de itens criticos",
-        description: "Identificacao de pontos de atencao no armazenamento para reduzir falhas e melhorar o acesso aos materiais."
+        title: "Mapeamento de itens críticos com suporte de IA",
+        description: "Identificação de pontos de atenção no armazenamento com auxílio de inteligência artificial para análise de informações, reconhecimento de itens com maior impacto operacional e apoio na priorização de controle. O uso de IA no dia a dia contribui para reduzir falhas, melhorar o acesso aos materiais e aumentar a eficiência na gestão do estoque."
       }
     ]
   },
@@ -90,8 +90,8 @@ const portfolioData = {
     bio: "Responsável pelo planejamento e controle da produção com base em dados, contribuindo para decisões mais precisas e uma operação mais organizada.",
     summary: "Profissional com atuação em PCP, voltado à análise de indicadores e suporte ao planejamento produtivo. Contribui para a organização e acompanhamento das rotinas de produção, transformando dados operacionais em informações úteis para a tomada de decisões mais assertivas e melhoria contínua dos processos.",
     portrait: "paulo.jpeg",
-    gallery: ["friba0.jpeg", "fribal1.jpeg", "fribal2.jpeg"],
-    skills: ["Análise de Dados", "Planejamento de Abate", "Controle de Estoques e Abastecimento", "Gestão de Lead Time", "Análise de Dados"],
+    gallery: ["friba0.jpg", "fribal1.jpg", "fribal2.jpg"],
+    skills: ["Raciocínio Analítico", "Produção e Exportação", "Planejamento de Abate", "Logística e Cadeia Fria", "Análise de Dados"],
     highlights: ["Leitura de indicadores", "Planejamento produtivo", "Visão analítica", "Acompanhamento de desempenho", "Organização de processos"],
     projects: [
       {
