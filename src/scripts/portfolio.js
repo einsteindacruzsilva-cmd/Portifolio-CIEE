@@ -90,7 +90,7 @@ const portfolioData = {
     bio: "Responsável pelo planejamento e controle da produção com base em dados, contribuindo para decisões mais precisas e uma operação mais organizada.",
     summary: "Profissional com atuação em PCP, voltado à análise de indicadores e suporte ao planejamento produtivo. Contribui para a organização e acompanhamento das rotinas de produção, transformando dados operacionais em informações úteis para a tomada de decisões mais assertivas e melhoria contínua dos processos.",
     portrait: "paulo.jpeg",
-    gallery: ["paulo.jpeg", "paulo.jpeg", "paulo.jpeg"],
+    gallery: ["friba0.jpeg", "fribal1.jpeg", "fribal2.jpeg"],
     skills: ["Análise de Dados", "Planejamento de Abate", "Controle de Estoques e Abastecimento", "Gestão de Lead Time", "Análise de Dados"],
     highlights: ["Leitura de indicadores", "Planejamento produtivo", "Visão analítica", "Acompanhamento de desempenho", "Organização de processos"],
     projects: [
